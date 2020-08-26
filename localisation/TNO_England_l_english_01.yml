@@ -69,42 +69,37 @@ ENG_burgundian_system_DEF:0 "잉글랜드 왕국"
 ##########################
 
 ENG_social_conservative_party:0 "RP - Reformists"
-ENG_social_conservative_party_long:0 "Royal Party - Reformists"
+ENG_social_conservative_party_long:0 "근왕당-개혁파"
 ENG_authoritarian_democrat_party:0 "RP - Moderates"
-ENG_authoritarian_democrat_party_long:0 "Royal Party - Moderates"
+ENG_authoritarian_democrat_party_long:0 "근왕당-온건파"
 ENG_fascism_party:0 "RP - Hardliners"
-ENG_fascism_party_long:0 "Royal Party - Hardliners"
-
+ENG_fascism_party_long:0 "근왕당-강경파"
 ENG_united_england_party:0 "UE - Macmillanists"
-ENG_united_england_party_long:0 "United England - Macmillanists"
-
+ENG_united_england_party_long:0 "영국 연합당-맥밀런주의"
 ENG_united_england_party_liberal:0 "UE - Lib"
-ENG_united_england_party_liberal_long:0 "United England - Liberals"
-
+ENG_united_england_party_liberal_long:0 "영국 연합당-자유주의"
 ENG_royal_party:0 "RP"
-ENG_royal_party_long:0 "Royal Party"
-
+ENG_royal_party_long:0 "왕정주의"
 ENG_national_front_party:0 "NF"
-ENG_national_front_party_long:0 "National Front"
-
+ENG_national_front_party_long:0 "국가전선"
 ENG_old_labour_party:0 "Labour"
-ENG_old_labour_party_long:0 "The Labour Party"
+ENG_old_labour_party_long:0 "노동당"
 
 
 ENG_HMMLR_Reconstruction_Conservative:0 "NDL - Patriots"
-ENG_HMMLR_Reconstruction_Conservative_long:0 "National Democratic League - Patriots"
+ENG_HMMLR_Reconstruction_Conservative_long:0 "국가민주동맹-애국주의"
 ENG_HMMLR_Reconstruction_Moderate:0 "NDL - Democrats"
-ENG_HMMLR_Reconstruction_Moderate_long:0 "National Democratic League - Democrats"
+ENG_HMMLR_Reconstruction_Moderate_long:0 "국가민주동맹-민주주의"
 ENG_HMMLR_Reconstruction_Liberal:0 "NDL - New Whigs"
-ENG_HMMLR_Reconstruction_Liberal_long:0 "National Democratic League - New Whigs"
+ENG_HMMLR_Reconstruction_Liberal_long:0 "국가민주동맹-신 휘그당"
 ENG_HMMLR_Reconstruction_Social:0 "NDL - New Whigs"
-ENG_HMMLR_Reconstruction_Social_Long:0 "National Democratic League - New Whigs"
+ENG_HMMLR_Reconstruction_Social_Long:0 "국가민주동맹-신 휘그당"
 ENG_HMMLR_Reconstruction_Reformist:0 "SLP - Reformists"
-ENG_HMMLR_Reconstruction_Reformist_long:0 "Socialist Labour Party - Reformists"
+ENG_HMMLR_Reconstruction_Reformist_long:0 "사회노동당-개혁파"
 ENG_HMMLR_Reconstruction_Hardliner:0 "SLP - Hardliners"
-ENG_HMMLR_Reconstruction_Hardliner_long:0 "Socialist Labour Party - Hardliners"
+ENG_HMMLR_Reconstruction_Hardliner_long:0 "사회노동당-강경파"
 ENG_HMMLR_Reconstruction_Movement:0 "The Movement"
-ENG_HMMLR_Reconstruction_Movement_long:0 "The Movement in Support of the Army"
+ENG_HMMLR_Reconstruction_Movement_long:0 "군을 지지하는 운동"
 
 #################################
 # Country Names - Cosmetic Tags #
@@ -125,15 +120,15 @@ ENG_despotism_ydl_long:0 "Young Democracy Law Government"
 # Ministers #
 #############
 
-ENG_Alec_Douglas_Home_hog:0 "Alec Douglas-Home"
-ENG_Quintin_McGarel_Hogg_for:0 "Quintin McGarel Hogg"
-ENG_Harold_Macmillan_eco:0 "Harold Macmillan"
-ENG_Arthur_Kenneth_Chesterton_sec:0 "Arthur Kenneth Chesterton"
+ENG_Alec_Douglas_Home_hog:0 "엘릭 더글라스-흄"
+ENG_Quintin_McGarel_Hogg_for:0 "쿠엔틴 맥가렐 호그"
+ENG_Harold_Macmillan_eco:0 "해럴드 맥밀런"
+ENG_Arthur_Kenneth_Chesterton_sec:0 "아서 케네스 체스터턴"
 
-FEN_david_eccles_hog:0 "David Eccles"
-FEN_shirley_williams_eco:0 "Shirley Williams"
-FEN_norman_st_john_stevas_for:0 "Norman St. John-Stevas"
-FEN_enoch_powell_sec:0 "Enoch Powell"
+FEN_david_eccles_hog:0 "데이비드 에클레스"
+FEN_shirley_williams_eco:0 "셜리 윌리엄스"
+FEN_norman_st_john_stevas_for:0 "노먼 '세인트' 존 스테바스"
+FEN_enoch_powell_sec:0 "이넉 파월"
 
 FEN_philip_toynbee_hog:0 "Philip Toynbee"
 FEN_Bill_Alexander_for:0 "Bill Alexander"
